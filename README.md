@@ -4,3 +4,5 @@ Simple ToDo Project based on Kyle's WebDevSimplified tutorial combined with Kevi
 This is a sample program, not intended as fully functional, but a great starter.
 
 Note: Local storage is in use, may conflict with other testing you have done, be sure to update script.js if needed. 
+
+<a><img src="https://i.ibb.co/qgwyv9B/Screenshot-2020-12-17-082746.png" alt="Screenshot-2020-12-17-082746" border="0"></a>
